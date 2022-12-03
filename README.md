@@ -151,7 +151,7 @@ Supported file formats
 *   `better-scriptsrc.config.js`
 *   `better-scriptsrc.config.cjs`
 
-### Specified configuration file
+### Specified configuration file 指定的配置文件
 
 ```sh
 yarn scripts --config custom-config.json
